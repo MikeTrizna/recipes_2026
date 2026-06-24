@@ -1,2 +1,3 @@
-# recipes_2026
-A place to share recipes
+# Avocado Recipes
+
+These are my avocado recipes. Enjoy!
